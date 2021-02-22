@@ -1,0 +1,40 @@
+Availity Assignment
+Gabriel Pridham
+   
+1. Tell me about your proudest professional achievement.  It can also be a personal or school project. 
+
+        My proudest achievement is when my team won first place in our internet programming class. 
+    In the internet programming class, we were each divided into random groups of about 4 people total. 
+    This class was one of my last classes and I wanted to try hard and put together all my knowledge and 
+    test my skills with working with a team. I took the initiative to come up with a project idea and a 
+    plan that my team liked. The plan was to make a website that showcased all the pokemon data. Just a 
+    simple website that has pokemon cards with their picture in front and when the card is clicked it displays 
+    the pokemon's information on the backside. I was proud of this project for a few reasons. One reason was 
+    that I was able to successfully get everyone on the team to contribute, I found it a challenge in school 
+    to get everyone in a group to do their fair share. I was able to accomplish this by using Trello to keep 
+    track of everything we needed to do and using Slack to keep in communications about any trouble or help. 
+    I was able to talk with my teammate about strengths and weaknesses and get a better idea of how they can 
+    best contribute to the project. Another reason was that the product turned out just as we envisioned in 
+    the beginning. The last reason was that when it came time for show-and-tell, each student in the class 
+    had 3 votes to give out, and in the end, our project received the most votes.
+
+
+2. Tell me about something you have read recently that you would recommend and why. (Can be a Github Repo, Article, Blog, Book, etc)
+
+        A book that I read recently and would recommend is a book called "Trading in the Zone" by Mark Douglas. 
+    Earlier this year I decided to get into investing as I thought it was the perfect opportunity to start investing 
+    in the market.While the book is targeted more towards people who are investing in the market, the book teaches 
+    valuable lessons that reach far beyond just the markets. The book centers around the psychology around investing 
+    and getting people into the right state of mind to have an objective view in making the decisions to invest. 
+    While there isn't anything revolutionary in the book, Mark Douglas wrote his thoughts in a manner that puts many 
+    ideas together in a more impactful way. The book emphasizes the importance of having a good attitude and taking 
+    responsibility. While this book can help mentally prepare you for trading in the market, it has helped me in other 
+    aspects of my life such as my career. The book overall challenges my attitude by taking a deeper look at how I think. 
+    It also teaches me to have confidence in my knowledge and plan of action.
+
+3. How would you explain what Availity does to your grandmother? 
+
+        Availity makes software that makes it easier for healthcare works to help you get your payments settled.
+    It first helps you by allowing the healthcare worker to give you details on insurance eligibility all the
+    way until your payment is settled. They also help make things easier for you by lowering the risk that your 
+    insurance claim will be denied and overall claims management tools that makes life easier for healthcare works.

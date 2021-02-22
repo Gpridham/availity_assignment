@@ -1,0 +1,85 @@
+.App {
+  background-color: #f8f8f8;
+  min-height: 100vh;
+}
+
+.body {
+  font-size: calc(4px + 2vmin);
+  color: black;
+  margin: auto;
+  width: 30%;
+  min-width: 400px;
+}
+
+.registration-form {
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px lightgray;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.registration-form .form {
+  padding: 10px;
+  background-color:#fff;
+}
+
+.registration-form .form-title {
+  width: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+  background: lightgray;
+  line-height: 1.33333;
+  font-weight: 700;
+  color: black;
+  text-align: center;
+  font-size: calc(5px + 2vmin);
+  margin: auto;
+}
+
+.registration-form label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 400;
+}
+
+.required::before {
+  content: '*';
+  color: #ff8c00;
+}
+
+.registration-form input {
+  position: relative;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.bottom-btn{
+  position: relative;
+  width: 100%;
+  margin: 8px 0;
+  display: inline-block;
+  display: inline-block;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.submit-btn {
+  min-width: 74px;
+  max-width: 264px;
+  font-weight: 600;
+  line-height: 20px;
+  font-size: calc(6px + 2vmin);
+  background: #ff8c00;
+}
+
+input[type=submit]:hover {
+  background-color: #ff8c00de;
+}
+
